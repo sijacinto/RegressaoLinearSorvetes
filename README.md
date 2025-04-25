@@ -35,6 +35,8 @@ https://github.com/sijacinto/RegressaoLinearSorvetes/blob/main/Inputs/sorvete_da
 # Obtendo novo conjunto de dados referentes a Vendas de Sorvete x Temperatura
 https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset
 
+# Obtenção e análise de dados. Geração do modelo usando Notebook Python via Google Colab
+![image](https://github.com/user-attachments/assets/fc697436-f0cd-4df7-8745-6032979c4d68)
 
 
 

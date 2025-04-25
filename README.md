@@ -26,7 +26,11 @@ Temperatura (°C) | Vendas de Sorvete
 
 https://github.com/sijacinto/RegressaoLinearSorvetes/blob/main/Inputs/sorvete_dataset.csv
 
-# Análise de dados via ChatGPT (Regreessão linear)
+# Análise de dados via ChatGPT (Regressão linear)
 ![image](https://github.com/user-attachments/assets/7b16c22c-d0fe-4ca8-99af-405eb5445f83)
+
+# AnAnálise de dados via Excel (Regressão linear)
+![image](https://github.com/user-attachments/assets/d7025efa-f82d-4a98-90cf-a7059044a991)
+
 
 

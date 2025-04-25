@@ -41,6 +41,10 @@ https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset
 # Preparando o ambiente no Azure Machine Learning
 ![image](https://github.com/user-attachments/assets/606dc012-9855-404a-be8b-275156bd13af)
 
+# Utilizando o ambiente Azure Machine Learning
+![image](https://github.com/user-attachments/assets/7b69284d-102f-440f-89c2-d70e8ed90d97)
+
+
 
 
 

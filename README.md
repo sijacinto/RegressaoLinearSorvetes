@@ -60,6 +60,13 @@ https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset
 
 ![image](https://github.com/user-attachments/assets/665c3f3d-41a3-4a63-85be-a38912994bbb)
 
+![image](https://github.com/user-attachments/assets/3cfad66f-e973-4026-a4cf-25cb265b765f)
+
+## Rodando os jobs
+![image](https://github.com/user-attachments/assets/b947f76b-b545-4903-9918-5cf85d033260)
+
+
+
 
 
 

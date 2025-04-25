@@ -38,5 +38,9 @@ https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset
 # Obtenção e análise de dados. Geração do modelo usando Notebook Python via Google Colab
 ![image](https://github.com/user-attachments/assets/fc697436-f0cd-4df7-8745-6032979c4d68)
 
+# Preparando o ambiente no Azure Machine Learning
+![image](https://github.com/user-attachments/assets/606dc012-9855-404a-be8b-275156bd13af)
+
+
 
 

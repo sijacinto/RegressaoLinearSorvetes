@@ -32,5 +32,9 @@ https://github.com/sijacinto/RegressaoLinearSorvetes/blob/main/Inputs/sorvete_da
 # AnAnálise de dados via Excel (Regressão linear)
 ![image](https://github.com/user-attachments/assets/d7025efa-f82d-4a98-90cf-a7059044a991)
 
+# Obtendo novo conjunto de dados referentes a Vendas de Sorvete x Temperatura
+https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset
+
+
 
 

@@ -1,2 +1,0 @@
-# RegressaoLinearSorvetes
-Projeto DIO

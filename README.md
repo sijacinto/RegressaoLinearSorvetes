@@ -49,6 +49,21 @@ https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset
 
 ## Carregando os dados para o AML
 ![image](https://github.com/user-attachments/assets/16e2890e-9e4a-40c2-a8cb-9732cc5c2e14)
+## Usando o Automated ML para treinar modelo de regressão linear
+![image](https://github.com/user-attachments/assets/bfe0b2b5-71d9-4bc8-925e-33d0d49bb2ff)
+### Configurações
+![image](https://github.com/user-attachments/assets/b2e5563d-ca97-4431-8166-b41e6d39b99a)
+
+![image](https://github.com/user-attachments/assets/2a7909e2-84d1-4250-8bb5-b1540b4ef4fc)
+
+![image](https://github.com/user-attachments/assets/94c10002-02b7-49c2-a8a5-4ccf5dfae983)
+
+![image](https://github.com/user-attachments/assets/665c3f3d-41a3-4a63-85be-a38912994bbb)
+
+
+
+
+
 
 
 

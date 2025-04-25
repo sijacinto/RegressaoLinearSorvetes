@@ -1,3 +1,6 @@
+
+![ChatGPT Image 25 de abr  de 2025, 16_41_11](https://github.com/user-attachments/assets/135b737e-3c93-4068-a61f-8e1177d213ba)
+
 # Obtendo conjunto de dados via ChatGPT
 Temperatura (°C) | Vendas de Sorvete
 

@@ -1,3 +1,21 @@
+# Prevendo Vendas de Sorvete com Machine Learning  - Projeto DIO
+Machine Learning para prever vendas de sorvetes com base na temperatura do dia. 
+
+## Cenário
+O proprietário de uma sorveteria chamada Gelato Mágico, localizada em uma cidade litorânea, deseja  otimizar sua produção, reduzindo desperdícios e maximizando seus lucros. 
+A quantidade de sorvetes vendidos diariamente tem uma forte correlação com a temperatura ambiente. 
+No entanto, sem um planejamento adequado, pode-se acabar produzindo mais sorvetes do que o necessário e ter prejuízos com desperdícios ou, ao contrário, produzir menos e perder vendas.
+
+Para solucionar esse problema, opta-se por usar Machine Learning para prever quantos sorvetes serão vendidos com base na temperatura. 
+Com esse modelo, será possível antecipar a demanda e planejar a produção de maneira eficiente.
+
+## Objetivo
+O objetivo deste projeto é desenvolver um modelo de regressão preditiva que permita: 
+
+✅ Treinar um modelo de Machine Learning para prever as vendas de sorvete com base na temperatura do dia.
+✅ Registrar e gerenciar o modelo usando o MLflow.
+✅ Implementar o modelo para previsões em tempo real em um ambiente de cloud computing.
+✅ Criar um pipeline estruturado para treinar e testar o modelo, garantindo reprodutibilidade.
 
 ![ChatGPT Image 25 de abr  de 2025, 16_41_11](https://github.com/user-attachments/assets/135b737e-3c93-4068-a61f-8e1177d213ba)
 

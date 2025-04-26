@@ -13,9 +13,13 @@ Com esse modelo, será possível antecipar a demanda e planejar a produção de 
 O objetivo deste projeto é desenvolver um modelo de regressão preditiva que permita: 
 
 ✅ Treinar um modelo de Machine Learning para prever as vendas de sorvete com base na temperatura do dia.
+
 ✅ Registrar e gerenciar o modelo usando o MLflow.
+
 ✅ Implementar o modelo para previsões em tempo real em um ambiente de cloud computing.
+
 ✅ Criar um pipeline estruturado para treinar e testar o modelo, garantindo reprodutibilidade.
+
 
 ![ChatGPT Image 25 de abr  de 2025, 16_41_11](https://github.com/user-attachments/assets/135b737e-3c93-4068-a61f-8e1177d213ba)
 
@@ -84,6 +88,11 @@ https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset
 ![image](https://github.com/user-attachments/assets/b947f76b-b545-4903-9918-5cf85d033260)
 
 ![image](https://github.com/user-attachments/assets/0b3eca19-0258-4435-926b-90ca62ce6977)
+
+## Registro e deploy de modelos preditivos
+
+![image](https://github.com/user-attachments/assets/c5f4cf30-f4cb-4559-83dc-393fa1e3a1fb)
+
 
 
 

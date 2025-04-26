@@ -65,6 +65,11 @@ https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset
 ## Rodando os jobs
 ![image](https://github.com/user-attachments/assets/b947f76b-b545-4903-9918-5cf85d033260)
 
+![image](https://github.com/user-attachments/assets/0b3eca19-0258-4435-926b-90ca62ce6977)
+
+
+
+
 
 
 

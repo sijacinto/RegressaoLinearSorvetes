@@ -91,8 +91,13 @@ https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset
 
 ## Registro e deploy de modelos preditivos
 
+![image](https://github.com/user-attachments/assets/744fede6-acb1-40e5-8ad9-3c497d032bbe)
+
+
 ![image](https://github.com/user-attachments/assets/c5f4cf30-f4cb-4559-83dc-393fa1e3a1fb)
 
+
+![image](https://github.com/user-attachments/assets/0da582bf-e268-471f-9471-90c3206ce4a9)
 
 
 

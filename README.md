@@ -1,4 +1,4 @@
-# Prevendo Vendas de Sorvete com Machine Learning  - Projeto DIO
+# Prevendo Vendas de Sorvete usando Machine Learning  - Projeto DIO
 Machine Learning para prever vendas de sorvetes com base na temperatura do dia. 
 
 ## Cenário
